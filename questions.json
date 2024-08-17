@@ -1,0 +1,57 @@
+[
+  {
+    "question": "What is the sum of -70 and 42?",
+    "options": [
+      "-112",
+      "-28",
+      "112",
+      "28"
+    ],
+    "correct": 1,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+    "question": "What is the additive inverse of -1215?",
+    "options": [
+      "1215",
+      "-1215",
+      "0",
+      "-1"
+    ],
+    "correct": 0,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+    "question": "What is the result of the addition: (-8) + 5 + (-3)?",
+    "options": [
+      "-6",
+      "6",
+      "4",
+      "0"
+    ],
+    "correct": 0,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+    "question": "What property allows us to change the order of addends without changing the sum?",
+    "options": [
+      "Identity Property",
+      "Associative Property",
+      "Commutative Property",
+      "Additive Inverse Property"
+    ],
+    "correct": 2,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+    "question": "What is the result of the subtraction: (-15) - (-8)?",
+    "options": [
+      "-7",
+      "-23",
+      "7",
+      "23"
+    ],
+    "correct": 0,
+      "img": "./assests/images/5.jpg"
+  }
+]
